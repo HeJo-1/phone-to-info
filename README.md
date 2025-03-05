@@ -45,5 +45,6 @@ Enter phone number: +905551112233
 📍 Koordinatlar: 39.9208, 32.8541
 ==================================================
 📌 Konum haritası Location.html olarak kaydedildi.
+Haritayı görmek ister misiniz? (E/H): 
 ```
 
